@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        PartyPlus - BombParty Overlay
 // @description Un overlay pour dynamiser BombParty avec des fonctionnalités supplémentaires et une customisation complète
-// @version     2.0.0
+// @version     2.3.0
 // @author      PannH
 // @homepage    https://github.com/PannH/partyplus-jklm-bombparty-overlay#readme
 // @supportURL  https://github.com/PannH/partyplus-jklm-bombparty-overlay/issues
