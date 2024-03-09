@@ -2,7 +2,7 @@
 Un overlay pour dynamiser votre expérience du jeu BombParty avec un tas de fonctionnalités supplémentaires et une configuration profondément personnalisée.
 
 > [!IMPORTANT]
-> **N'installez pas le script depuis ce dépôt.** Utilisez [GreasyFork]() pour vous assurer d'avoir la dernière version et les mises à jour automatiques.
+> **N'installez pas le script depuis ce dépôt.** Utilisez [GreasyFork](https://greasyfork.org/en/scripts/489420-partyplus-bombparty-overlay) pour vous assurer d'avoir la dernière version et les mises à jour automatiques.
 
 ## Sommaire
 - [Installation](#installation)
@@ -22,7 +22,7 @@ Un overlay pour dynamiser votre expérience du jeu BombParty avec un tas de fonc
 - Pour Firefox : [Greasemonkey](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/)
 
 ### 2. Installer le script
-Rendez-vous sur la page [GreasyFork](https://greasyfork.org/en/scripts/489240-partyplus-bombparty-overlay) du script et installez-le.
+Rendez-vous sur la page [GreasyFork](https://greasyfork.org/en/scripts/489420-partyplus-bombparty-overlay) du script et installez-le.
 
 ## Aperçu des fonctionnalités
 Voici quelques-unes des fonctionnalités que PartyPlus offre. Pour en découvrir le reste, essayez-le par vous-même ! 🎉
