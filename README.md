@@ -1,6 +1,9 @@
 # 🎉 PartyPlus - BombParty Overlay
 Un overlay pour dynamiser votre expérience du jeu BombParty avec un tas de fonctionnalités supplémentaires et une configuration profondément personnalisée.
 
+> [!IMPORTANT]
+> **N'installez pas le script depuis ce dépôt.** Utilisez [GreasyFork]() pour vous assurer d'avoir la dernière version et les mises à jour automatiques.
+
 ## Sommaire
 - [Installation](#installation)
 - [Aperçu des fonctionnalités](#aperçu-des-fonctionnalités)
