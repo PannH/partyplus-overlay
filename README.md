@@ -1,6 +1,10 @@
 # 🎉 PartyPlus - BombParty Overlay
 Un overlay pour dynamiser votre expérience du jeu BombParty avec un tas de fonctionnalités supplémentaires et une configuration profondément personnalisée.
 
+> ![IMPORTANT]
+> La première fois que vous utilisez l'overlay, vous risquez d'avoir la fenêtre ci-dessous qui s'ouvre. Cela permet d'autoriser le script à accéder à un lien externe (API de GitHub) pour connaître la dernière version de l'overlay disponible. Cliquez simplement sur "Toujours autoriser" pour ne plus avoir à le faire par la suite.
+> ![Autorisation de l'API de GitHub](./assets/external_url_access.png)
+
 ## Sommaire
 - [Installation](#installation)
 - [Aperçu des fonctionnalités](#aperçu-des-fonctionnalités)
